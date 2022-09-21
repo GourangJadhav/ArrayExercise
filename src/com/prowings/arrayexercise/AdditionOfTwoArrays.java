@@ -1,7 +1,7 @@
 package com.prowings.arrayexercise;
 
 public class AdditionOfTwoArrays {
-
+// 	return type int array
 	public static int[] addTwoArrays(int[] arr1, int[] arr2) {
 
 		if (arr1.length == 0)
