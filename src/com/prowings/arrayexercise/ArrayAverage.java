@@ -1,7 +1,7 @@
 package com.prowings.arrayexercise;
 
 public class ArrayAverage {
-
+//	average of marks
 	public static double getMarksAverage(int[] arr) {
 		int sum = 0;
 		int arrLength = arr.length;
